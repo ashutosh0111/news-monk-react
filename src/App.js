@@ -9,7 +9,7 @@ import News from './components/News';
  
 
 export default class App extends Component {
-  apikey = process.env.REACT_APP_APIKEY
+  apikey = "ca99211496bd43c0869102853e5cb8ba"
   render() {
     return (
       <div>
